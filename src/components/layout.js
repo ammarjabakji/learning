@@ -11,7 +11,7 @@ export default ({ children }) => (
       </div>
       <Footer>
          My new Gatsby Blog 2019
-    </Footer>
+      </Footer>
    </div>
 )
 
